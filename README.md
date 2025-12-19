@@ -21,8 +21,10 @@ Opens a window what contains a little video player. Accepts few formats.
 
 ## How does it work? - Behavior
 
-* Layout has a grid (8 rows, 2 cols).
+* Min size: 1280x720p
+* Layout has a grid (8 rows, 12 cols).
 * Can be resized.
+* Buttons are attached on the grid.
 
 **Mute button - self-explanatory**
 
